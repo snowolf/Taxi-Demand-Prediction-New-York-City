@@ -1,4 +1,6 @@
 ﻿# Taxi Demand Prediction New York City
+ ## Check out the blog of this case study at the following link:
+ https://medium.com/@gamesleo89/taxi-demand-prediction-new-york-city-5e7b12305475
 ## Business Problem/Problem Statement
 For a given location in New York City, our goal is to predict the number of pickups in that given location. Some location require more taxis at a particular time than other locations owing to the presence schools, hospitals, offices etc. The prediction result can be transferred to the taxi drivers via Smartphone app, and they can subsequently move to the locations where predicted pickups are high.
 
